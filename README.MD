@@ -1,0 +1,1 @@
+Notes taken during Adrian Cantrill's AWS SAA course
